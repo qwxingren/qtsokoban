@@ -1,0 +1,37 @@
+# Temporary files --------------------------------------------------------------
+
+*~
+.*
+\#*\#
+.#.*
+
+# Project configuration --------------------------------------------------------
+
+*.pro.user
+build*
+Project.sln.lnk
+WORK
+OUTPUT
+Makefile
+CMakeLists.txt.user
+build-*-Debug
+build-*-Default
+prepare.conf.user
+
+# Tags -------------------------------------------------------------------------
+
+GPATH
+GRTAGS
+GTAGS
+
+.ctags
+.clang_complete
+
+# QMLC/JSC ---------------------------------------------------------------------
+
+*.qmlc
+*.jsc
+
+# OTHER ------------------------------------------------------------------------
+
+vgcore.*
