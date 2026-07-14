@@ -7,5 +7,5 @@
   1. 记录推箱子的走法
   2. 回放走法
 
-![image](http://47.56.100.21/qtsokoban.png)
+![截图说明](qtsokoban.PNG)
 
